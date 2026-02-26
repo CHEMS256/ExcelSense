@@ -1,4 +1,3 @@
-```markdown
 # ExcelSense - Analyse de Sentiments Intelligente
 
 <div align="center">
